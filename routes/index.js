@@ -26,7 +26,7 @@ router.post("/register", function(req, res){
          avatar: req.body.avatar,
          email: req.body.email
         });
-    if(req.body.username === "johnnygat"){
+    if(req.body.username === "admin"){
         newUser.isAdmin = true;
     }
     User.register(newUser, req.body.password, function(err, user){
