@@ -51,4 +51,4 @@ To see the website in action, go to https://secure-anchorage-18891.herokuapp.com
  * connect-flash
 
 # License
-  <a href=#>MIT</a>
+  <a href="https://github.com/Hardik500/YelpCamp/blob/master/LICENSE.txt">MIT</a>
