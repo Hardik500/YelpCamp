@@ -5,7 +5,7 @@ A full stack node.js application created with the help from my Web Dev Course.
 To see the website in action, go to https://secure-anchorage-18891.herokuapp.com/
 
 # Clone or download the repository
-
+  https://github.com/Hardik500/YelpCamp.git
 
 # Features
 * User Authentication
